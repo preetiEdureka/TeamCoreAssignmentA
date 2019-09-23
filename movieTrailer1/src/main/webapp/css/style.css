@@ -1,0 +1,11 @@
+#trailers{
+    border: 5px solid crimson;
+    padding: 10px;
+    margin: 10px;
+    height: 50%;
+}
+
+#header-section{
+	position:relative;
+	top:55px;
+}
